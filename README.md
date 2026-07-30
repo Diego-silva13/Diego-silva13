@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou Diego Oliveira da Silva! 👋
 
-<!--
-**Diego-silva13/Diego-silva13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Quem sou eu
 
-Here are some ideas to get you started:
+Sou estudante do Ensino Médio no SESI e estou no último semestre do curso Técnico em Desenvolvimento de Sistemas no SENAI. Tenho interesse em Desenvolvimento Web, com foco em Front-end e Back-end, e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos e continuar evoluindo na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 O que estou aprendendo
+
+- Desenvolvimento Web
+- Engenharia de Software
+- Banco de Dados
+- Versionamento de Projetos
+- Boas práticas de programação
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### Back-end
+- PHP
+- MySQL
+
+### Ferramentas
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📫 Como entrar em contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
+- 📧 E-mail: seuemail@email.com
