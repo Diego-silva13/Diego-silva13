@@ -37,5 +37,5 @@ Sou estudante do Ensino Médio no SESI e estou no último semestre do curso Téc
 
 ## 📫 Como entrar em contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
-- 📧 E-mail: # Olá, eu sou Diego Oliveira da Silva! 
+- 💼 LinkedIn: https://www.linkedin.com/in/diego-oliveira-da-silva-b27340426/
+- 📧 E-mail: diego.silvoliv130490@gmail.com
